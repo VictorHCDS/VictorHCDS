@@ -8,7 +8,7 @@ Meu nome é Victor Hugo.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - ### Você pode entrar em contato comigo :mailbox:
 
-victor.hugo.crispimda.silva@escola.pr.gov.br 
+victor.hugo.crispim.da.silva@escola.pr.gov.br 
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
 
